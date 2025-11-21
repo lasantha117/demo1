@@ -1,0 +1,9 @@
+title: HydroClean Solutions
+email: ""
+description: "Premium Exterior Maintenance"
+baseurl: "/Pressurecleaning-Demo1" # the subpath of your site, e.g. /project
+url: "https://lasantha117.github.io" # the base hostname & protocol for your site
+# minimal config - enable markdown and kramdown defaults
+markdown: kramdown
+kramdown:
+  input: GFM
